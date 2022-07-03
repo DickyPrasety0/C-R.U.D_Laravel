@@ -2,7 +2,7 @@
 - Sumber saya dalam membuat crud dan full tutorial ada di website ini =
 https://www.malasngoding.com/tutorial-membuat-crud-dengan-laravel/
 
-- Dan saya yang saya rubah dari tutorial website diatas adalah indexnya, 
+- Dan yang saya rubah dari tutorial website diatas adalah file index,tambah,dan edit, 
 saya menggunakan index/tampilan utama melalui tutorial di website ini =
 https://appkey.id/pembuatan-website/laravel/crud-laravel/
 
