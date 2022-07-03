@@ -6,6 +6,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+## About Me
+Nama : Dicky Prasetyo Nugroho 
+Nim  : 202069040022 
+Prodi : T.Informatika 4A
+Universitas Yudharta
+
 
 ## About Laravel
 
