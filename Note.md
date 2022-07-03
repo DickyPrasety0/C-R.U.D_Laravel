@@ -10,7 +10,7 @@ File index dari tutorial website yg pertama saya tandai dengan tulisan (ori) di 
 
 
 # Hambatan/Kesulitan :
-1. Hambatan/kesulitan saya saat mengerjakan adalah error saat dicoba,
+- Hambatan/kesulitan saya saat mengerjakan adalah error saat dicoba,
 Tapi kemudian setelah saya pahami dan coba lagi akhirnya berhasil, meskipun errornya nambah lagi :D
 
-2. Dan yg kedua adalah perbedaan kode dari website pertama dan kedua juga membuat bingung
+- Dan yg kedua adalah perbedaan kode dari website pertama dan kedua juga membuat bingung
