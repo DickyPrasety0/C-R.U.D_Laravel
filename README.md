@@ -9,10 +9,10 @@
 
 ## About Me
 
-Nama : Dicky Prasetyo Nugroho 
-Nim  : 202069040022 
-Prodi : T.Informatika 4A 
-Universitas Yudharta
+- Nama : Dicky Prasetyo Nugroho 
+- Nim  : 202069040022 
+- Prodi : T.Informatika 4A 
+- Universitas Yudharta
 
 
 ## About Laravel
