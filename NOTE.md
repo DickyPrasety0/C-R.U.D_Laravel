@@ -1,5 +1,5 @@
-# Sumber/Source
-- Sumber saya dalam membuat crud adalah di website ini =
+# Source
+- Sumber saya dalam membuat crud dan full tutorial ada di website ini =
 https://www.malasngoding.com/tutorial-membuat-crud-dengan-laravel/
 
 - Dan saya yang saya rubah dari tutorial website diatas adalah indexnya, 
